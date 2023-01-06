@@ -16,7 +16,7 @@
 nav {
   display: flex;
   justify-content: space-between;
-  margin: 20px 200px;
+  padding: 50px 200px;
 }
 .nav-title {
   font-weight: 800;
@@ -37,6 +37,16 @@ nav {
 
   border-radius: 5px;
 
+  padding: 18px 35px;
+}
+
+.contact-phone {
+  color: #fd6e0a;
+  height: 64px;
+  font-weight: 700;
+  font-size: 20px;
+  border-radius: 5px;
+  border: 1px solid #fd6e0a;
   padding: 18px 35px;
 }
 
